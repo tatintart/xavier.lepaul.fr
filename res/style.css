@@ -1,0 +1,13 @@
+html {
+  line-height: 1.4;
+}
+
+body {
+  font-family: 'Alegreya', serif;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+body {
+  margin: 1em auto 3em auto;
+  padding: 0 1em;
+}
