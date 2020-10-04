@@ -114,8 +114,8 @@ print {
     top: 0;
     bottom: 0;
     left: 0;
-    width: 7.5rem;
-    padding-right: 0.5rem;
+    width: 7rem;
+    padding-right: 1rem;
     text-align: right;
     margin: 0;
     border-right: 1px solid #999;
